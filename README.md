@@ -22,6 +22,5 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashray123)
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashray123&repo=devil-family)
- ![counter](https://eniu285sqwb5yaa.m.pipedream.net)
+![counter](https://eniu285sqwb5yaa.m.pipedream.net)
 
