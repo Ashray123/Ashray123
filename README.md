@@ -71,13 +71,14 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 </table>
 
 ### 📈 **Github Stats**
-
+<div display = "inline-block">
 <a href="https://github.com/Ashray123">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashray123&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashray123&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
   </a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
+  </a>
+</div>
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashray123&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
