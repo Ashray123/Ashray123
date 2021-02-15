@@ -80,9 +80,17 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
     <a href="https://ashray-jha.netlify.app/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/external-link-line.svg"></a>
   </p>
 
-
+<details>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashray123)
 
-
+<p align="right">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
+</p>
+</details>
+<graph width= "50%">
+[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashray123&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</graph>
 ![counter](https://eniu285sqwb5yaa.m.pipedream.net)
+
+![GitHub metrics](https://metrics.lecoq.io/Ashray123) 
 
