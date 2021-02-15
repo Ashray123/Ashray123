@@ -82,7 +82,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
   </a>
 </div>
 
-### **ACTIVITY GRAPH**
+### **Activity Graph**
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashray123&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
