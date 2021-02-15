@@ -42,8 +42,8 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/docker-3.svg"> 
+<span><b><center>C++</center></b></span> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/c.svg"> 
 </td>
 </tr>
 
