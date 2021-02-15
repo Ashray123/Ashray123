@@ -10,6 +10,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhanbad-3c9)
+![counter](https://eniu285sqwb5yaa.m.pipedream.net)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -84,7 +85,8 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashray123&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![counter](https://eniu285sqwb5yaa.m.pipedream.net)
+
+
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
