@@ -70,16 +70,6 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 </tbody>
 </table>
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-  <p align="center">
-    <a href="https://twitter.com/AshrayJha" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/ashray-jha-7aa4bb121/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
-    <a href="mailto:ashrayjha12@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
-    <a href="https://ashray-jha.netlify.app/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/external-link-line.svg"></a>
-  </p>
-
 ### 📈 **Github Stats**
 
 <a href="https://github.com/Ashray123">
@@ -89,16 +79,18 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
   </a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ashray123)
-
-<p align="right">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
-</p>
-
-
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashray123&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![counter](https://eniu285sqwb5yaa.m.pipedream.net)
 
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/AshrayJha" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/ashray-jha-7aa4bb121/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
+    <a href="mailto:ashrayjha12@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
+    <a href="https://ashray-jha.netlify.app/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/external-link-line.svg"></a>
+  </p>
 
 
