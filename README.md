@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Ashray Jha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Ashray Jha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm a Web Developer from India ❤</h3>
   
@@ -17,7 +17,8 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 - 🌱 I’m currently trying to master Full Stack Web Development .
 - 👯 I’m looking to collaborate on Projects related to pretty much any domain such as Web- Development , AI/ML, Mobile Development, etc.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am looking at You Right Now!  
+- 💘 A talk with mom, makes me feel good and energitic.
+- ⚡ Fun fact: I am looking at You Right Now! 😄 
 <br />
 
 ## Tech Stack :computer:
@@ -89,7 +90,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
   <p align="center">
     <a href="https://twitter.com/AshrayJha" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
