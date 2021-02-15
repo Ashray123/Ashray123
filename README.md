@@ -76,7 +76,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Ashray123&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
   </a>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
+<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashray123&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
   </a>
 </div>
 
