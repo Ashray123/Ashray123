@@ -15,9 +15,9 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently trying to master Full Stack Web Development .
-- 👯 I’m looking to collaborate on Projects related to pretty much any domain such as Web- Development , AI/ML, Mobile Development, etc.
+- 👯 I’m looking to collaborate on Projects related to pretty much any domain such as Web- Development , AI/ML, Mobile Development, etc ,I am a fast learner though!.
 - 😄 Pronouns: he/him/his
-- 💘 A talk with mom, makes me feel good and energitic.
+- 💘 A talk with mom, makes me feel good and energetic.
 - ⚡ Fun fact: I am looking at You Right Now! 😄 
 <br />
 
